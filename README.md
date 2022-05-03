@@ -5,9 +5,9 @@ Meu nome é Lídia, moro em São Paulo e sou graduada em Ciência da Computaçã
 </p>
 
 
-### 📚 Linguagens e ferramentas que estou estudando
+<!--### 📚 Linguagens e ferramentas que estou estudando
 
-<!--[Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+[Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Mongo Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Elastic Badge](https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![Kafka Badge](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
