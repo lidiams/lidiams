@@ -1,4 +1,4 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Olá! Bem-vindo ao meu perfil!
+### Olá! Bem-vindo ao meu perfil!
 
 <p>
 Meu nome é Lídia, moro em São Paulo e sou graduada em Ciência da Computação pela Pontifícia Universidade Católica de São Paulo (PUC-SP). 
